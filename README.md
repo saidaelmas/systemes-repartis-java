@@ -1,2 +1,8 @@
-# systemes-repartis-java
-TP de Systèmes répartis en Java
+# Systèmes répartis – Java 
+
+## TP1 – Rappels Java
+- Interface IPersonne
+- Classes Personne et Profil
+
+## Technologies
+Java
